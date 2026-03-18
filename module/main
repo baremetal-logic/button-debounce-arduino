@@ -1,0 +1,11 @@
+#include "debounce.h"
+
+void setup() {
+    Serial.begin(9600);
+}
+
+void loop() {
+    if (debounceButton(7, 20)) {
+        Serial.println("ok");
+    }
+}
