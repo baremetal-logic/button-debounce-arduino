@@ -13,10 +13,10 @@ Clean and simple examples of button debouncing using Arduino.
 
 ## 📂 Project Structure
 basic/
-debounce_basic.ino → Simple debounce with millis()
+debounce_with_millis.ino → Simple debounce with millis()
 
 function/
-debounce_function.ino → Reusable debounce function
+debounce_function_example.ino → Reusable debounce function
 
 ---
 
