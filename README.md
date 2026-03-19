@@ -11,7 +11,7 @@ Clean and simple examples of button debouncing using Arduino.
 (link)
 
 ▶️ Part 2 – Reusable function  
-(link)
+[(link)](https://youtu.be/J56GHZBQhYo )
 
 📚 Full playlist  
 [(link playlist)](https://www.youtube.com/playlist?list=PLVZzru_RvQ4YzH9hsVN8c5ImRakKR6nOw)
