@@ -14,7 +14,7 @@ Clean and simple examples of button debouncing using Arduino.
 (link)
 
 📚 Full playlist  
-(link playlist)
+[(link playlist)](https://www.youtube.com/playlist?list=PLVZzru_RvQ4YzH9hsVN8c5ImRakKR6nOw)
 ---
 
 ## 📂 Project Structure
